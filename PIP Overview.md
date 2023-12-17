@@ -1,4 +1,5 @@
 Overview of pip
+
 You have already learned that Python requires a driver to connect with a MySQL database. A driver is a library that allows you to interact with other software. Drivers come in the form of libraries, which are also called packages. 
 
 Some drivers are not installed with your initial Python installation, so they need to be imported. These are called external libraries. To help manage these libraries, you should develop some familiarity with Pip, a built-in package installer that comes with your initial Python download. It can be used to install, configure and update external libraries.
